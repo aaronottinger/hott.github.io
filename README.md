@@ -1,4 +1,4 @@
-## Who was Aldus Manutius? 
+### Who was Aldus Manutius? 
 ^^^I'm using markdown language instead of HTML to make headers, manipulate texts, and add images. Go to [this GitHub link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help with markdown (md) language.
 
 Here, I'm going to write a very short bio about Aldus Manutius. 
