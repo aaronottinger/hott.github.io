@@ -1,12 +1,28 @@
-# Who was Aldus Manutius? 
+#Introduction
 ^^^I'm using markdown language instead of HTML to make headers, manipulate texts, and add images. Go to [this GitHub link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help with markdown (md) language.
 
-Here, I'm going to write a very short bio about Aldus Manutius. 
+Here, I'm going to talk a little about the purpose of this site. If you're not sure **why** you're doing this project, be sure to read the **Context and Purpose** section of the prompt. 
+
+# Why Aldus Manutius? 
+
+Here, I'm going answer why I've selected this particular print for my project. 
 
 
 # Historical Context 
 
-In this section
+In this section, I'm writing about Manutius (perhaps a very short bio) and the European context in which he was working. Most likely, I'll have several quotes from Howard, and I might even use the Seattle University library to find an additional article about him. Because this is going to be a public document, I'll avoid non-scholarly sources like Wikipedia. Although, Wikipedia can be a great place to find articles (see the References section of any entry). 
+
+# The Adaptation
+
+Here, I'm going to spend some time walking the audience through my adaptation. Think about all the analyses you've conducted this term. Most of them have been split in half. You've looked at the **formal qualities** as well as the **cultural significance** of these texts. I'm going to use an h2 (##) heading to divide this section. 
+
+## Formal Qualities
+
+I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your slack posts and select the formal aspects of the image that you deem to be most important. I would seleect at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original. 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/aaronottinger/hott.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
