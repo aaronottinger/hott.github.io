@@ -1,6 +1,12 @@
 ## Who was Aldus Manutius? 
+^^^I'm using markdown language instead of HTML to make headers, manipulate texts, and add images. Go to [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help with markdown (md) language.
+
+Here, I'm going to write a very short bio about Aldus Manutius. 
 
 
+## Historical Context 
+
+In this section
 
 You can use the [editor on GitHub](https://github.com/aaronottinger/hott.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
