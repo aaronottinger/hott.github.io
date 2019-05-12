@@ -4,7 +4,7 @@
 Here, I'm going to write a very short bio about Aldus Manutius. 
 
 
-## Historical Context 
+# Historical Context 
 
 In this section
 
