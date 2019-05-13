@@ -3,7 +3,10 @@
 
 Here, I'm going to talk a little about the purpose of this site. If you're not sure **why** you're doing this project, be sure to read the **Context and Purpose** section of the prompt for this assignment. 
 
+By discussing the purpose of this site (showcasing your artifact), it might be a good to **briefly** state the purpose of your adaptation and its intended audience. You could certainly have individual sections devoted to each of these, and chances are, you'll come back to purpose and audience when you discuss the "outcomes," "rhetorical significance," or "impact" towards the end. 
+
 # Why Aldus Manutius? 
+^^^Subject headings will help you organize your essay. Feel free to borrow headings from this model or make variations based on them.
 
 Here, I'm going answer why I've selected this particular print for my project. Of course, for you, it could be a print, a particular material, written text, or something else. Whatever you adapt is up to you. What's really important though is **why** you're adapting it. This might also be a good place to include an image or a sample of the text you're adapting. See mine below. 
 
@@ -34,44 +37,18 @@ I might consider the grid of my image, the layout, hierarchy, or even the typefa
 
 In this section, I'm going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. De Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, Bourd, or someone else). It's really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more cultural analysis of your own adaptation. 
 
+# Rhetorical Outcomes
+
+In short, this is a good place to examine in depth who your adaptation addresses, what it will persuade them of, and the consequence of that persuasion, i.e. your outcomes. To aid you, this might be a good place to revisit some theorists that discussed how texts cannot subordinate audiences to mere consumers (Debord) and those who thought texts can be imancipatory or liberating (Zizek). 
 
 
+# Reflection
 
+Consider concluding with a final reflection about your process and decision making. Try answering one or more of the following questions. 
 
+1. If someone outside this class (like your intended audience) acutally viewed your artifact, what might they think of you (the artist). Avoid answers like, "I'm a good student!" and instead, think about how your art object is a reflection of your character. 
 
+2. If you had abundant time and resources, what would you do differently for your adaptation? 
 
-You can use the [editor on GitHub](https://github.com/aaronottinger/hott.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+3. In what situation outside of class/school might this project might be applicable and how so? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aaronottinger/hott.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
