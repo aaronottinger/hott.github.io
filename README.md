@@ -20,7 +20,7 @@ Here, I'm going answer why I've selected this particular print for my project. O
 
 In this section, I'm writing about Manutius (perhaps a very short bio) and the European context in which he was working. Most likely, I'll have several quotes from Howard, and I might even use the Seattle University library to find an additional article about him. Because this is going to be a public document, I'll avoid non-scholarly sources like Wikipedia. Although, Wikipedia can be a great place to find articles (see the References section of any entry). 
 
-# The Adaptation (150-300 words)
+# The Adaptation (150-250 words)
 
 Here, I'm going to spend some time walking the audience through my adaptation. It might be wise to describe the kind of adaptation it is: transposition, commentary, or analogue. Think about all the analyses you've conducted this term. Most of them have been split in half. You've looked at the **formal qualities** as well as the **cultural significance** of these texts. I'm going to use an h2 (##) heading to divide this section. 
 
