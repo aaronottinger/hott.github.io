@@ -7,7 +7,7 @@ Here, I'm going to talk a little about the purpose of this site. If you're not s
 
 Here, I'm going answer why I've selected this particular print for my project. It might also be a good place to include an image or a sample of the text at hand. 
 
-![Aldus Manutius in his print shop]()
+![Aldus Manutius in his print shop](aldus.JPG)
 
 
 # Historical Context 
