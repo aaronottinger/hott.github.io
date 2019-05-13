@@ -1,11 +1,11 @@
 # Introduction
 ^^^I'm using markdown language instead of HTML to make headers, manipulate texts, and add images. Go to [this GitHub link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help with markdown (md) language.
 
-Here, I'm going to talk a little about the purpose of this site. If you're not sure **why** you're doing this project, be sure to read the **Context and Purpose** section of the prompt. 
+Here, I'm going to talk a little about the purpose of this site. If you're not sure **why** you're doing this project, be sure to read the **Context and Purpose** section of the prompt for this assignment. 
 
 # Why Aldus Manutius? 
 
-Here, I'm going answer why I've selected this particular print for my project. It might also be a good place to include an image or a sample of the text at hand. 
+Here, I'm going answer why I've selected this particular print for my project. Of course, for you, it could be a print, a particular material, written text, or something else. Whatever you adapt is up to you. What's really important though is **why** you're adapting it. This might also be a good place to include an image or a sample of the text you're adapting. See mine below. 
 
 ![Aldus Manutius in his print shop](aldus.JPG)
 ^^^This image is right out of Howard's book. It's not really available for free online. To avoid copyright infringement, I've cropped quite a bit of it (plus we're not selling this image and we're using it for educational purposes, so it should be fine). If you can't find an image online or you need to use an image of your own making, the easiest thing to do is to upload it as a file to your repository. Then use the following to include your image: exclamation mark, brackets including the name of your image, followed by parentheses including the URL or just the file name, e.g. file.JPG. So it will look like this: ![image name](name.JPG)
