@@ -29,15 +29,15 @@ This is also a good place to reveal your adaptation. Remember the quality of you
 ![The Modern Aldu Manutius](INKINC.png)
 
 
-## Formal Qualities
+### Formal Qualities
 
 I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your slack posts and select the formal aspects of the image that you deem to be most important. I would seleect at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original. 
 
-## Cultural Meaning
+### Cultural Meaning
 
 In this section, I'm going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. De Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, Bourd, or someone else). It's really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more cultural analysis of your own adaptation. 
 
-# Rhetorical Outcomes
+# Rhetorical Significance
 
 In short, this is a good place to examine in depth who your adaptation addresses, what it will persuade them of, and the consequence of that persuasion, i.e. your outcomes. To aid you, this might be a good place to revisit some theorists that discussed how texts cannot subordinate audiences to mere consumers (Debord) and those who thought texts can be imancipatory or liberating (Zizek). 
 
