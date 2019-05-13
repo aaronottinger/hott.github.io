@@ -7,7 +7,7 @@ Here, I'm going to talk a little about the purpose of this site. If you're not s
 
 Here, I'm going answer why I've selected this particular print for my project. It might also be a good place to include an image or a sample of the text at hand. 
 
-![image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwijwY_H75biAhWEh1QKHW8MCrQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo-vintage-illustration-of-pioneering-italian-printer-aldus-manutius-34385884.html&psig=AOvVaw22PEesMYgSaZUC1YIeOaQQ&ust=1557780699740331)
+![Aldus Manutius in his print shop]()
 
 
 # Historical Context 
