@@ -23,6 +23,7 @@ Here, I'm going to spend some time walking the audience through my adaptation. I
 
 This is also a good place to reveal your adaptation. Remember the quality of your adaptation, or let's say the "craftsmanship," is less important to us than your analysis. Think back to the sketches you made during the first week. Some of you used pencil and notebook paper. That could work here as well. Obviously, the more time and thought you put into it the better. I highly recommend that you use Canva, if possible, especially if you're adapting a symbol for a commericial logo, for instance. 
 
+![The Modern Aldu Manutius](INKINC.png)
 
 
 ## Formal Qualities
