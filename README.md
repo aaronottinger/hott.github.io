@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 ^^^I'm using markdown language instead of HTML to make headers, manipulate texts, and add images. Go to [this GitHub link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help with markdown (md) language.
 
 Here, I'm going to talk a little about the purpose of this site. If you're not sure **why** you're doing this project, be sure to read the **Context and Purpose** section of the prompt. 
