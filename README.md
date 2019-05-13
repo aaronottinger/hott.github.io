@@ -19,11 +19,21 @@ In this section, I'm writing about Manutius (perhaps a very short bio) and the E
 
 # The Adaptation
 
-Here, I'm going to spend some time walking the audience through my adaptation. Think about all the analyses you've conducted this term. Most of them have been split in half. You've looked at the **formal qualities** as well as the **cultural significance** of these texts. I'm going to use an h2 (##) heading to divide this section. 
+Here, I'm going to spend some time walking the audience through my adaptation. It might be wise to describe the kind of adaptation it is: transposition, commentary, or analogue. Think about all the analyses you've conducted this term. Most of them have been split in half. You've looked at the **formal qualities** as well as the **cultural significance** of these texts. I'm going to use an h2 (##) heading to divide this section. 
+
+This is also a good place to reveal your adaptation. Remember the quality of your adaptation, or let's say the "craftsmanship," is less important to us than your analysis. Think back to the sketches you made during the first week. Some of you used pencil and notebook paper. That could work here as well. Obviously, the more time and thought you put into it the better. I highly recommend that you use Canva, if possible, especially if you're adapting a symbol for a commericial logo, for instance. 
+
+
 
 ## Formal Qualities
 
 I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your slack posts and select the formal aspects of the image that you deem to be most important. I would seleect at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original. 
+
+## Cultural Meaning
+
+In this section, I'm going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. De Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, Bourd, or someone else). It's really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more cultural analysis of your own adaptation. 
+
+
 
 
 
