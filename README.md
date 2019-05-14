@@ -35,7 +35,7 @@ I might consider the grid of my image, the layout, hierarchy, or even the typefa
 
 ### Cultural Meaning (200-300 words) 
 
-In this section, I'm going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. De Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, Bourd, or someone else). It's really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more cultural analysis of your own adaptation. 
+In this section, I'm going to investigate the cultural implications of my adaptation. You might want to select a particular theorist that helps you interpret your own artifact and/or process (e.g. Foucault, Barthes, Bourdieu, Stuart Hall, De Certeau, or someone else). It's really important that you engage with key words for the text/author you choose, define that term, and use it to inform a more cultural analysis of your own adaptation. 
 
 # Rhetorical Significance (200-300 words) 
 
