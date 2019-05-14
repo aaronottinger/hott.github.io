@@ -31,7 +31,7 @@ This is also a good place to reveal your adaptation. Remember the quality of you
 
 ### Formal Qualities (200-300 words) 
 
-I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your slack posts and select the formal aspects of the image that you deem to be most important. I would seleect at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original. 
+I might consider the grid of my image, the layout, hierarchy, or even the typeface. Go back through your Slack posts and select the formal aspects of the image that you deem to be most important. I would select at least 2-3 formal qualities. It might be helpful to compare and contrast your adaptation to the original. 
 
 ### Cultural Meaning (200-300 words) 
 
