@@ -39,7 +39,7 @@ In this section, I'm going to investigate the cultural implications of my adapta
 
 # Rhetorical Significance (200-300 words) 
 
-In short, this is a good place to examine in depth who your adaptation addresses, what it will persuade them of, and the consequence of that persuasion, i.e. your outcomes. To aid you, this might be a good place to revisit some theorists that discussed how texts cannot subordinate audiences to mere consumers (Debord) and those who thought texts can be imancipatory or liberating (Zizek). 
+In short, this is a good place to examine in depth who your adaptation addresses, what it will persuade them of, and the consequence of that persuasion, i.e. your outcomes. To aid you, this might be a good place to revisit some theorists that discussed how texts subordinate audiences to mere consumers (Debord) and those who thought texts can be imancipatory or liberating (Zizek). 
 
 
 # Reflection (150-250 words) 
