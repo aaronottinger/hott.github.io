@@ -14,11 +14,13 @@ Here, I'm going answer why I've selected this particular print for my project. O
 ^^^This image is right out of Howard's book. It's not really available for free online. To avoid copyright infringement, I've cropped quite a bit of it (plus we're not selling this image and we're using it for educational purposes, so it should be fine). If you can't find an image online or you need to use an image of your own making, the easiest thing to do is to upload it as a file to your repository. Then use the following to include your image: exclamation mark, brackets including the name of your image, followed by parentheses including the URL or just the file name, e.g. file.JPG. So it will look like this: ! [image name] (name.JPG) but with no spaces in between. 
 
 
-
-
 # Historical Context (200-300 words) 
 
 In this section, I'm writing about Manutius (perhaps a very short bio) and the European context in which he was working. Most likely, I'll have several quotes from Howard, and I might even use the Seattle University library to find an additional article about him. Because this is going to be a public document, I'll avoid non-scholarly sources like Wikipedia. Although, Wikipedia can be a great place to find articles (see the References section of any entry). 
+
+Make sure that when you cite soureces, like Nicole Howard, if you use the author's name in the sentence--like I've done here--you won't need to include their name in the parentheses where you supply the page number for your quote or paraphrase (61). 
+
+Also, you only need to call your authors by their full name the first time. After that, you can just refer to authors, like Howard, by their last name only. 
 
 # The Adaptation (150-250 words)
 
