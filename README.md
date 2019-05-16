@@ -22,6 +22,8 @@ Make sure that when you cite soureces, like Nicole Howard, if you use the author
 
 Also, you only need to call your authors by their full name the first time. After that, you can just refer to authors, like Howard, by their last name only. 
 
+>>Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. 
+
 # The Adaptation (150-250 words)
 
 Here, I'm going to spend some time walking the audience through my adaptation. It might be wise to describe the kind of adaptation it is: **transposition, commentary, or analogue**. Think about all the analyses you've conducted this term. Most of them have been split in half. You've looked at the **formal qualities** as well as the **cultural significance** of these texts. I'm going to use an h2 (##) headings to divide this section into the two smaller subsections. 
