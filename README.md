@@ -22,7 +22,7 @@ Make sure that when you cite soureces, like Nicole Howard, if you use the author
 
 Also, you only need to call your authors by their full name the first time. After that, you can just refer to authors, like Howard, by their last name only. 
 
->>Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. Just trying a block quote here. 
+>>Just trying a block quote here. A block quote, generally, is a quote that includes five lines or more. So let's make one. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Blah blah blah. Okay, so that's basically the size of a block quote. You can make it stand apart from the rest of your text in markdown by starting with two "greater than" characters, followed by your text. 
 
 # The Adaptation (150-250 words)
 
